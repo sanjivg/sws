@@ -4,7 +4,7 @@
 ##
 ## FILE:       makefile.dcl
 ##  $Revision: 87 $
-##      $Date: 03/08/12 3:51p $
+##      $Date: 03/08/15 3:51p $
 ##    $Author: Pdo $ of last update
 ##
 ## CREATOR:    AKaviday
@@ -13,7 +13,6 @@
 ##    Makefile for CC installation
 ##
 ###############################################################################
-
 NoDepend                            = t
 #ENABLE_OUI=t
 createAntBuild=t
